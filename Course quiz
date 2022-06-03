@@ -1,0 +1,437 @@
+Signals
+1) Precise timing is not important in digital signals.
+A.
+True
+B.
+False 
+Answer is B 
+
+2) Why does the TTL family use a totem-pole circuit on the output?
+A.
+It provides active pull-up.
+B.
+It provides active pull-down.
+C.
+It provides active pull-up and active pull-down.
+Answer: Option C
+
+3). Most modern digital systems are based on semiconductor technology.
+A.
+True
+B.
+False
+Answer: Option A
+
+
+4)Which of the following statements does NOT describe an advantage of digital technology?
+A.
+The values may vary over a continuous range.
+B.
+The circuits are less affected by noise.
+C.
+The operation can be programmed.
+D.
+Information storage is easy.
+Answer: Option A
+
+5) What are the symbols used to represent digits in the binary number system?
+A.
+0,1
+B.
+0,1,2
+C.
+0 through 8
+D.
+1,2
+Answer: Option A
+
+ 6) What is a digital-to-analog converter?
+A.
+It takes the digital information from an audio CD and converts it to a usable form.
+B.
+It allows the use of cheaper analog techniques, which are always simpler.
+C.
+It stores digital data on a hard drive.
+D.
+It converts direct current to alternating current.
+Answer: Option A
+
+7) Which of the following expressions is in the sum-of-products (SOP) form?
+A.
+(A + B)(C + D)
+B.
+(A)B(CD)
+C.
+AB(CD)
+D.
+AB + CD
+Answer: Option D
+
+8)
+A logic circuit that determines if one input is equal to another is called a comparator.
+A.
+True
+B.
+False
+Answer: Option A
+
+9) If a signal passing through a gate is inhibited by sending a LOW into one of the inputs, and the output is HIGH, the gate is a(n):
+A.
+AND
+B.
+NAND
+C.
+NOR
+D.
+OR
+Answer: Option B
+
+
+10). The output of an OR gate with three inputs, A, B, and C, is LOW when ____.
+A.
+A = 0, B = 0, C = 0
+B.
+A = 0, B = 0, C = 1
+C.
+A = 0, B = 1, C = 1
+D.
+all of the above
+Answer: Option A
+
+11)
+A logic circuit that determines if one input is equal to another is called a comparator.
+A.
+True
+B.
+False
+Answer: Option A
+
+12) If a signal passing through a gate is inhibited by sending a LOW into one of the inputs, and the output is HIGH, the gate is a(n):
+A.
+AND
+B.
+NAND
+C.
+NOR
+D.
+OR
+Answer: Option B
+
+
+13). The output of an OR gate with three inputs, A, B, and C, is LOW when ____.
+A.
+A = 0, B = 0, C = 0
+B.
+A = 0, B = 0, C = 1
+C.
+A = 0, B = 1, C = 1
+D.
+all of the above
+Answer: Option A
+
+14) The output of a NOT gate is HIGH when ________.
+
+A.	the input is LOW
+B.	the input is HIGH
+C.	power is applied to the gate's IC
+D.	power is removed from the gate's IC
+Answer: Option A
+
+15)	The output of an AND gate with three inputs, A, B, and C, is HIGH when ________.
+
+A.	A = 1, B = 1, C = 0
+B.	A = 0, B = 0, C = 0
+C.	A = 1, B = 1, C = 1
+D.	A = 1, B = 0, C = 1
+Answer: Option C
+
+16) If a 3-input NOR gate has eight input possibilities, how many of those possibilities will result in a HIGH output?
+
+A.	1
+B.	2
+C.	7
+D.	8
+Answer: Option A
+
+17) If a signal passing through a gate is inhibited by sending a LOW into one of the inputs, and the output is HIGH, the gate is a(n):
+
+A.	AND
+B.	NAND
+C.	NOR
+D.	OR
+Answer: Option B
+
+18)The output of an OR gate with three inputs, A, B, and C, is LOW when ________.
+
+A.	A = 0, B = 0, C = 0
+B.	A = 0, B = 0, C = 1
+C.	A = 0, B = 1, C = 1
+D.	all of the above
+Answer: Option A
+
+20) Which of the following logical operations is represented by the + sign in Boolean algebra?
+
+A.	inversion
+B.	AND
+C.	OR
+D.	complementation
+Answer: Option C
+
+21) Output will be a LOW for any case when one or more inputs are zero for a(n):
+
+A.	OR gate
+B.	NOT gate
+C.	AND gate
+D.	NOR gate
+Answer: Option C
+
+22) Which of the following choices meets the minimum requirement needed to create specialized waveforms that are used in digital control and sequencing circuits?
+
+A.	basic gates, a clock oscillator, and a repetitive waveform generator
+B.	basic gates, a clock oscillator, and a Johnson shift counter
+C.	basic gates, a clock oscillator, and a DeMorgan pulse generator
+D.	basic gates, a clock oscillator, a repetitive waveform generator, and a Johnson shift counter
+Answer: Option A
+
+23) The format used to present the logic output for the various combinations of logic inputs to a gate is called a(n):
+
+A.	Boolean constant
+B.	Boolean variable
+C.	truth table
+D.	input logic function
+Answer: Option C
+
+24) What is the first thing you will need if you are going to use a macrofunction?
+
+A.	A complicated design project
+B.	An experienced design engineer
+C.	Good documentation
+D.	Experience in HDL
+Answer: Option C
+
+25) Any number with an exponent of zero is equal to:
+
+A.	zero
+B.	one
+C.	that number
+D.	ten
+Answer: Option B
+
+26) Which of the following statements does NOT describe an advantage of digital technology?
+
+A.	The values may vary over a continuous range.
+B.	The circuits are less affected by noise.
+C.	The operation can be programmed.
+D.	Information storage is easy.
+Answer: Option A
+
+27)What are the symbols used to represent digits in the binary number system?
+
+A.	0,1
+B.	0,1,2
+C.	0 through 8
+D.	1,2
+Answer: Option A
+
+28) The output of an AND gate is LOW ________.
+
+A.	all the time
+B.	when any input is LOW
+C.	when any input is HIGH
+D.	when all inputs are HIGH
+Answer: Option B
+
+29)Give the decimal value of binary 10010.
+
+A.	610
+B.	910
+C.	1810
+D.	2010
+Answer: Option C
+30)Which of the following expressions is in the sum-of-products (SOP) form?
+A.
+(A + B)(C + D)
+B.
+(A)B(CD)
+C.
+AB(CD)
+D.
+AB + CD
+Answer: Option D
+
+
+31)The commutative law of Boolean addition states that A + B = A × B.
+A.
+True
+B.
+False
+Answer: Option B
+
+
+32) The systematic reduction of logic circuits is accomplished by:
+A.
+using Boolean algebra
+B.
+symbolic reduction
+C.
+TTL logic
+D.
+using a truth table
+Answer: Option A
+
+33)How many gates would be required to implement the following Boolean expression before simplification? XY + X(X + Z) + Y(X + Z)
+A.
+1
+B.
+2
+C.
+4
+D.
+5
+Answer: Option D
+
+
+34) An AND gate with schematic "bubbles" on its inputs performs the same function as a(n)________ gate.
+A.
+NOT
+B.
+OR
+C.
+NOR
+D.
+NAND
+Answer: Option C
+
+35) The output of a NOT gate is HIGH when ________.
+
+A.	the input is LOW
+B.	the input is HIGH
+C.	the input changes from LOW to HIGH
+D.	voltage is removed from the gate
+Answer: Option A
+
+36) The output of an OR gate is LOW when ________.
+
+A.	all inputs are LOW
+B.	any input is LOW
+C.	any input is HIGH
+D.	all inputs are HIGH
+Answer: Option A
+
+37) Digital signals transmitted on a single conductor (and a ground) must be transmitted in:
+
+A.	slow speed.
+B.	parallel.
+C.	analog.
+D.	serial.
+Answer: Option D
+
+38) In positive logic, ________.
+
+A.	a HIGH = 1, a LOW = 0
+B.	a LOW = 1, a HIGH = 0
+C.	only HIGHs are present
+D.	only LOWs are present
+Answer: Option A
+
+39)A common instrument used in troubleshooting a digital circuit is a(n) ________.
+
+A.	logic probe
+B.	oscilloscope
+C.	pulser
+D.	all of the above
+Answer: Option D
+
+40) AC + ABC = AC
+A.
+True
+B.
+False
+Answer: Option A
+
+41)How many gates would be required to implement the following Boolean expression after simplification? XY + X(X + Z) + Y(X + Z)
+A.
+1
+B.
+2
+C.
+4
+D.
+5
+Answer: Option B
+
+42) What is the primary motivation for using Boolean algebra to simplify logic expressions?
+A.
+It may make it easier to understand the overall function of the circuit.
+B.
+It may reduce the number of gates.
+C.
+It may reduce the number of inputs required.
+D.
+all of the above
+Answer: Option D
+43)The NAND or NOR gates are referred to as "universal" gates because either:
+A.
+can be found in almost all digital circuits
+B.
+can be used to build all the other types of gates
+C.
+are used in all countries of the world
+D.
+were the first gates to be integrated
+Answer: Option B
+
+44) Use Boolean algebra to find the most simplified SOP expression for F = ABD + CD + ACD + ABC + ABCD.
+A.
+F = ABD + ABC + CD
+B.
+F = CD + AD
+C.
+F = BC + AB
+D.
+F = AC + AD
+Answer: Option A
+
+45)A Karnaugh map is a systematic way of reducing which type of expression?
+A.
+product-of-sums
+B.
+exclusive NOR
+C.
+sum-of-products
+D.
+those with overbars
+Answer: Option C
+
+
+46)The truth table for the SOP expression  has how many input combinations?
+A.
+1
+B.
+2
+C.
+4
+D.
+8
+Answer: Option D
+
+47) Which of the following is an important feature of the sum-of-products (SOP) form of expression?
+A.
+All logic circuits are reduced to nothing more than simple AND and OR gates.
+B.
+The delay times are greatly reduced over other forms.
+C.
+No signal must pass through more than two gates, not including inverters.
+D.
+The maximum number of gates that any signal must pass through is reduced by a factor of two.
+Answer: Option C
+48) Which of the examples below expresses the distributive law of Boolean algebra?
+A.
+(A + B) + C = A + (B + C)
+B.
+A(B + C) = AB + AC
+C.
+A + (B + C) = AB + AC
+D.
+A(BC) = (AB) + C
+Answer: Option B
